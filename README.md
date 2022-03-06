@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Sojung Park
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psj0913)
 
 
 
 [![sojung's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojung13&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+🎇 Skills
+Platforms & Languages
+[Python](https://img.shields.ip/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
