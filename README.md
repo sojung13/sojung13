@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 🎇 Skills
 Platforms & Languages
-![Python](https://img.shields.ip/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+[![Python](https://img.shields.ip/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)]
