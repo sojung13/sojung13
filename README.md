@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 ![DJANGO](https://img.shields.io/badge/DJANGO-092E20.svg?&style=for-the-badge&logo=DJANGO&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 
-## 👉 Contacts
+## ✨ Contacts
 email : brilliant0913@naver.com
