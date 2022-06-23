@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![DJANGO](https://img.shields.io/badge/DJANGO-092E20.svg?&style=for-the-badge&logo=DJANGO&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![VUE](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-#7952B3.svg?&style=for-the-badge&logo=Bootstrap.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-#7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white)
 
 ## ✨ Contacts
 email : brilliant0913@naver.com
