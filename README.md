@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000.svg?&style=for-the-badge&logo=Three.js&logoColor=white)
-![AdobeIllustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00.svg?&style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00.svg?&style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
 
 ## ✨ Contacts                
 email : brilliant0913@naver.com
